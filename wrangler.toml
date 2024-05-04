@@ -1,0 +1,7 @@
+name="profanity-api"
+compatibility_date="2024-05-03"
+
+[vars]
+
+VECTOR_URL="https://top-deer-70481-us1-vector.upstash.io"
+VECTOR_TOKEN="ABIFMHRvcC1kZWVyLTcwNDgxLXVzMWFkbWluTmpZeU1UTTRZV1F0WVRjMFpDMDBaR1kxTFdGbE1EY3RNbVpqTURobU5UVTRaREpp"
